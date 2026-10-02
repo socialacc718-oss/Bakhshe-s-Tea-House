@@ -1,0 +1,6 @@
+{
+  "name": "Bakhshe's Tea House",
+  "description": "Artisanal cafe & tea house menu ordering with instant WhatsApp slip generator, gourmet platters, pizzas, steaks, and specialty brews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
